@@ -14,8 +14,3 @@ AccessData.create_table("Tryout2","user",df)
 
 print(AccessData.load_data("Tryout2","user"))
 
-
-
-window.title("Hello Python")
-window.geometry("300x200+10+20")
-window.mainloop()
